@@ -9,7 +9,7 @@ Complete the following steps in the `index.html` file:
 3. When you are finished, use git to add, commit and push your changes.
 
 ```shell
-git add .
+git add
 git commit -m "Completed 2-html-attributes exercise"
 git push
 ```
